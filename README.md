@@ -12,17 +12,6 @@
 
 ---
 
-### 🔭 What I'm Building
-
-| | Project | What it does |
-|---|---|---|
-| 🤖 | **MCP Server Collection** | Custom Model Context Protocol servers: Strava, threat intel, SearXNG, media stack |
-| ⚔️ | **Open Model Arena** | Blind AI model comparison arena with ELO leaderboard |
-| 📋 | **Claude Code Statusline** | Status bar for Claude Code TUI: context, billing, git, weather |
-| 🔬 | **Claude Research Agent** | Citation-grounded research skill with anti-hallucination guardrails |
-
----
-
 ### 🧰 Tools I Actually Use
 
 <p align="center">
