@@ -15,7 +15,16 @@
 ### 🧰 Tools I Actually Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,docker,linux,git,bash,sqlite,nginx,vscode&perline=10" alt="Tech stack" />
+  <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://kernel.org"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
+  <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
 </p>
 
 ---
