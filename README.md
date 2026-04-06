@@ -25,7 +25,6 @@
   <a href="https://sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
   <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
-  <a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" height="48" /></a>
 </p>
 
 ---
