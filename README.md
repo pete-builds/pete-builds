@@ -15,9 +15,7 @@
 ### 🧰 Tools I Actually Use
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,docker,linux,git,bash,sqlite,nginx,vscode&perline=10" alt="Tech stack" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,docker,linux,git,bash,sqlite,nginx,vscode&perline=10" alt="Tech stack" />
 </p>
 
 ---
