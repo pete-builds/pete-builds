@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=pete-builds&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=builder%20%7C%20shipper%20%7C%20tinkerer&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pete-builds.pete-builds&left_color=royalblue&right_color=black" />
-</p>
-
-<h3 align="center">🛠️ I build production tools with Claude Code and ship them.</h3>
+<h3 align="center">🛠️ I build AI tooling with Claude Code and ship it.</h3>
 
 <br/>
+
+### About
+
+I'm an IT professional at Cornell University working on AI tooling for higher ed. Outside of work, I build MCP servers, Claude Code agents, and security research tools, and ship them.
 
 ---
 
@@ -31,22 +31,20 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description |
+| Project | What it does |
 |---|---|
-| [open-model-arena](https://github.com/pete-builds/open-model-arena) | Blind AI model comparison arena with ELO leaderboard |
-| [claude-code-statusline](https://github.com/pete-builds/claude-code-statusline) | Status bar for Claude Code TUI: context, billing, git, weather |
-| [strava-mcp-vault](https://github.com/pete-builds/strava-mcp-vault) | Strava MCP server with SQLite caching and token refresh |
-| [claude-research-agent](https://github.com/pete-builds/claude-research-agent) | Citation-grounded research reports with anti-hallucination guardrails |
-| [mcp-searxng](https://github.com/pete-builds/mcp-searxng) | SearXNG MCP server for web search, news, and people lookup |
-| [mcp-threatintel](https://github.com/pete-builds/mcp-threatintel) | Threat intelligence MCP server for IOC lookups and CVE checks |
+| [strava-mcp-vault](https://github.com/pete-builds/strava-mcp-vault) | Strava MCP server with SQLite caching, token refresh, and rate-limit awareness |
+| [open-model-arena](https://github.com/pete-builds/open-model-arena) | Blind model comparison arena with ELO rankings for local and cloud models |
+| [claude-research-agent](https://github.com/pete-builds/claude-research-agent) | Citation-grounded research skill with anti-hallucination guardrails |
+| [mcp-threatintel](https://github.com/pete-builds/mcp-threatintel) | Threat intel MCP: IOC lookups, CVE checks, and breach data for Claude Code |
+| [phantom-paste](https://github.com/pete-builds/phantom-paste) | Zero-knowledge ephemeral pastebin. The server never sees your plaintext. |
+| [claude-code-statusline](https://github.com/pete-builds/claude-code-statusline) | Labeled status bar for the Claude Code TUI: context, billing, git, weather |
 
 ---
 
-### 📊 GitHub Stats
+### 📝 Writing
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pete-builds&theme=github-dark-blue&hide_border=true" />
-</p>
+[research-reports](https://github.com/pete-builds/research-reports) · [security-research-reports](https://github.com/pete-builds/security-research-reports) · [stack.brooksnewmedia.com](https://stack.brooksnewmedia.com)
 
 ---
 
@@ -55,17 +53,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pete-builds&theme=github-compact&hide_border=true" width="100%" />
 </p>
-
----
-
-### 🐍 Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pete-builds/pete-builds/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
-</div>
