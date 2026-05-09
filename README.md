@@ -8,7 +8,7 @@
 
 ### About
 
-I'm an IT professional at Cornell University working on AI tooling for higher ed. Outside of work, I build MCP servers, Claude Code agents, and security research tools, and ship them.
+I'm an IT professional at Cornell University working on AI tooling for higher ed. Outside of work, I build MCP servers, Claude Code agents, and security research tools.
 
 ---
 
