@@ -33,12 +33,12 @@
 
 | Project | What it does |
 |---|---|
+| [mcp-unifi](https://github.com/pete-builds/mcp-unifi) | Safety-first MCP for self-hosted UniFi. 58 tools, dry-run previews, JSONL audit log, composite rollback |
 | [strava-mcp-vault](https://github.com/pete-builds/strava-mcp-vault) | Strava MCP server with SQLite caching, token refresh, and rate-limit awareness |
-| [open-model-arena](https://github.com/pete-builds/open-model-arena) | Blind model comparison arena with ELO rankings for local and cloud models |
-| [claude-research-agent](https://github.com/pete-builds/claude-research-agent) | Citation-grounded research skill with anti-hallucination guardrails |
-| [mcp-threatintel](https://github.com/pete-builds/mcp-threatintel) | Threat intel MCP: IOC lookups, CVE checks, and breach data for Claude Code |
-| [phantom-paste](https://github.com/pete-builds/phantom-paste) | Zero-knowledge ephemeral pastebin. The server never sees your plaintext. |
+| [mcp-threatintel](https://github.com/pete-builds/mcp-threatintel) | Threat intel MCP for Claude Code: IOC lookups, CVE checks, breach data, dark web search, OTX pulses |
+| [ai-upskill-playbook](https://github.com/pete-builds/ai-upskill-playbook) | The AI application stack for IT professionals. A map of what's worth learning in 2026 |
 | [claude-code-statusline](https://github.com/pete-builds/claude-code-statusline) | Labeled status bar for the Claude Code TUI: context, billing, git, weather |
+| [astro-claude-microblog](https://github.com/pete-builds/astro-claude-microblog) | A microblog that publishes from Claude Code. Astro + rsync. No CMS, no database. One command to post |
 
 ---
 
