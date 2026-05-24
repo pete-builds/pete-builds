@@ -2,15 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=pete-builds&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=builder%20%7C%20shipper%20%7C%20tinkerer&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
-<h3 align="center">🛠️ I build AI tooling with Claude Code and ship it.</h3>
+<h3 align="center">🛠️ AI Tools. Built to ship.</h3>
 
 <br/>
-
-### About
-
-I'm an IT professional at Cornell University working on AI tooling for higher ed. Outside of work, I build MCP servers, Claude Code agents, and security research tools.
-
----
 
 ### 🧰 Tools I Actually Use
 
