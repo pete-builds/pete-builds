@@ -9,9 +9,15 @@
 ### 🧰 Tools I Actually Use
 
 <p align="center">
+  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-1f6feb?style=for-the-badge&logoColor=white" alt="MCP" /></a>
+  <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" /></a>
+</p>
+
+<p align="center">
   <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://astro.build"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
   <a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
   <a href="https://kernel.org"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
