@@ -6,7 +6,7 @@
 
 <br/>
 
-### 🧰 Tools I Actually Use
+### Tools I Use
 
 <p align="center">
   <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-1f6feb?style=for-the-badge&logoColor=white" alt="MCP" /></a>
