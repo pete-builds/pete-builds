@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=pete-builds&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20tooling%2C%20hardened%20to%20production%20standard&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=pete-builds&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=builder%20%7C%20shipper%20%7C%20tinkerer&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
-<h3 align="center">🔧 I turn ambiguous ops problems into AI tooling, then harden it to a production and supply-chain standard.</h3>
-
-<p align="center"><sub>IT / endpoint engineer (SCCM · Intune · Jamf) building safe AI ops tooling: MCP servers, Claude Code agents, and the verified pipeline that ships them.</sub></p>
+<h3 align="center">🛠️ AI Tools. Built to ship.</h3>
 
 <br/>
 
@@ -31,28 +29,16 @@
 
 ---
 
-### 🔒 How these ship
+### 🚀 Featured Projects
 
-Every service runs as a multi-arch GHCR image carrying a **cosign keyless build-provenance attestation**, deployed through a GitOps pipeline with a **fail-closed verify gate** that rejects unsigned, tampered, and wrong-repo images, plus version-controlled, revertible desired-state.
-
----
-
-### 🚀 Production-grade
-
-| Project | What it does | Hardening |
-|---|---|---|
-| [mcp-unifi](https://github.com/pete-builds/mcp-unifi) | Safety-first MCP for self-hosted UniFi. 58 tools across Network/Protect/Access | dry-run previews, JSONL audit log, composite rollback, cosign-attested releases |
-| [open-setlist-stash](https://github.com/pete-builds/open-setlist-stash) | Setlist prediction game on a live MCP data feed | Postgres/asyncpg, mypy-strict, Trivy image scan, 167 tests, hash-locked builds |
-| [mcp-phish](https://github.com/pete-builds/mcp-phish) | Phish.net / Phish.in MCP, phased vault/live/cache | hash-locked supply chain, 80% coverage gate, dual Trivy scans |
-| [phantom-paste](https://github.com/pete-builds/phantom-paste) | Zero-knowledge ephemeral pastebin (Go) | client-side crypto, SRI-pinned deps, XSS + burn-after-read hardened |
-| [mcp-threatintel](https://github.com/pete-builds/mcp-threatintel) | Threat-intel MCP: IOC lookups, CVE checks, breach data, OTX pulses | non-root container, thread-safe store, optional bearer auth, tested |
-| [strava-mcp-vault](https://github.com/pete-builds/strava-mcp-vault) ⭐12 | Strava MCP with SQLite cache + auto token refresh | Fernet encryption-at-rest, pure-ASGI bearer auth |
-
----
-
-### 🧪 Also building (experimental, labeled honestly)
-
-[mcp-searxng](https://github.com/pete-builds/mcp-searxng) SSRF-guarded web search · [open-model-arena](https://github.com/pete-builds/open-model-arena) blind LLM ELO arena · [mcp-spotify](https://github.com/pete-builds/mcp-spotify) · [anthropic-tracker-mcp](https://github.com/pete-builds/anthropic-tracker-mcp) · [claude-code-statusline](https://github.com/pete-builds/claude-code-statusline) · [ai-upskill-playbook](https://github.com/pete-builds/ai-upskill-playbook) the 2026 AI stack for IT pros
+| Project | What it does |
+|---|---|
+| [mcp-unifi](https://github.com/pete-builds/mcp-unifi) | Safety-first MCP for self-hosted UniFi. 58 tools, dry-run previews, JSONL audit log, composite rollback |
+| [strava-mcp-vault](https://github.com/pete-builds/strava-mcp-vault) | Strava MCP server with SQLite caching, token refresh, and rate-limit awareness |
+| [mcp-threatintel](https://github.com/pete-builds/mcp-threatintel) | Threat intel MCP for Claude Code: IOC lookups, CVE checks, breach data, dark web search, OTX pulses |
+| [ai-upskill-playbook](https://github.com/pete-builds/ai-upskill-playbook) | The AI application stack for IT professionals. A map of what's worth learning in 2026 |
+| [claude-code-statusline](https://github.com/pete-builds/claude-code-statusline) | Labeled status bar for the Claude Code TUI: context, billing, git, weather |
+| [astro-claude-microblog](https://github.com/pete-builds/astro-claude-microblog) | A microblog that publishes from Claude Code. Astro + rsync. No CMS, no database. One command to post |
 
 ---
 
