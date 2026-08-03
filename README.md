@@ -33,6 +33,7 @@
 
 | Project | What it does |
 |---|---|
+| [open-setlist-stash](https://github.com/pete-builds/open-setlist-stash) | Self-hostable setlist-prediction game. Pluggable band data via MCP (Phish + Umphrey's built in), FastAPI + Postgres, mypy-strict |
 | [mcp-unifi](https://github.com/pete-builds/mcp-unifi) | Safety-first MCP for self-hosted UniFi. 58 tools, dry-run previews, JSONL audit log, composite rollback |
 | [strava-mcp-vault](https://github.com/pete-builds/strava-mcp-vault) | Strava MCP server with SQLite caching, token refresh, and rate-limit awareness |
 | [mcp-threatintel](https://github.com/pete-builds/mcp-threatintel) | Threat intel MCP for Claude Code: IOC lookups, CVE checks, breach data, dark web search, OTX pulses |
