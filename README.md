@@ -45,7 +45,7 @@
 
 ### 📝 Writing
 
-[research-reports](https://github.com/pete-builds/research-reports) · [security-research-reports](https://github.com/pete-builds/security-research-reports) · [stack.brooksnewmedia.com](https://stack.brooksnewmedia.com)
+[research-reports](https://github.com/pete-builds/research-reports) · [stack.brooksnewmedia.com](https://stack.brooksnewmedia.com)
 
 ---
 
