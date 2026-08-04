@@ -18,12 +18,11 @@
   <a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
   <a href="https://astro.build"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" /></a>
   <a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://kernel.org"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://nixos.org"><img src="https://skillicons.dev/icons?i=nix" alt="NixOS" /></a>
+  <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
   <a href="https://sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" /></a>
-  <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /></a>
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
 </p>
 
 ---
