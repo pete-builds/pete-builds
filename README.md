@@ -1,10 +1,10 @@
 # Pete Stergion
 
-I build the safety layer between AI agents and production systems: dry-run previews, human approval gates, and tamper-evident audit ledgers for changes an agent proposes and a person approves.
+I build tools that let AI agents safely work with real systems through dry-run previews, human approvals, and verifiable audit trails.
 
-Cornell University IT by day, working on AI tooling for higher education. Everything here is built and operated by one person, using Claude Code as the multiplier: 32 public repos, ~3,100 commits and 220 PRs in the last year, a shared MCP runtime library adopted across six servers, and a fleet-wide CVE remediation shipped across twenty repositories in a day.
+At Cornell University, I work on AI tooling for higher education. Outside of work, I use Claude Code to build and maintain open-source projects: 32 public repos, 3,100 commits, and 220 PRs in the past year.
 
-**How this gets built.** I have not written most of this code by hand. I write the specification, the guardrails, and the verification, and Claude Code writes the implementation. The interesting engineering has moved to the parts that check the work: coverage gates, dry-run previews, hash-chained ledgers, replay CLIs, and CI that refuses a release when the runtime image drifts off its pinned base. That is what most of these repos are actually about.
+I define the requirements, guardrails, and tests. Claude writes much of the implementation. My focus is making sure the result is safe, reliable, and ready for production.
 
 ---
 
