@@ -1,9 +1,12 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=pete-builds&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=builder%20%7C%20shipper%20%7C%20tinkerer&descAlignY=58&descAlign=50" width="100%" />
-</div>
+# Pete Stergion
 
+I build the safety layer between AI agents and production systems: dry-run previews, human approval gates, and tamper-evident audit ledgers for changes an agent proposes and a person approves.
 
-<br/>
+Cornell University IT by day, working on AI tooling for higher education. Everything here is built and operated by one person, using Claude Code as the multiplier: 32 public repos, ~3,100 commits and 220 PRs in the last year, a shared MCP runtime library adopted across six servers, and a fleet-wide CVE remediation shipped across twenty repositories in a day.
+
+**How this gets built.** I have not written most of this code by hand. I write the specification, the guardrails, and the verification, and Claude Code writes the implementation. The interesting engineering has moved to the parts that check the work: coverage gates, dry-run previews, hash-chained ledgers, replay CLIs, and CI that refuses a release when the runtime image drifts off its pinned base. That is what most of these repos are actually about.
+
+---
 
 ### Tools I Use
 
@@ -32,7 +35,7 @@
 | Project | What it does |
 |---|---|
 | [open-setlist-stash](https://github.com/pete-builds/open-setlist-stash) | Self-hostable setlist-prediction game. Pluggable band data via MCP (Phish + Umphrey's built in), FastAPI + Postgres, mypy-strict |
-| [mcp-unifi](https://github.com/pete-builds/mcp-unifi) | Safety-first MCP for self-hosted UniFi. 58 tools, dry-run previews, JSONL audit log, composite rollback |
+| [mcp-unifi](https://github.com/pete-builds/mcp-unifi) | Safety-first MCP for self-hosted UniFi. Dry-run previews, JSONL audit log, composite rollback |
 | [strava-mcp-vault](https://github.com/pete-builds/strava-mcp-vault) | Strava MCP server with SQLite caching, token refresh, and rate-limit awareness |
 | [mcp-threatintel](https://github.com/pete-builds/mcp-threatintel) | Threat intel MCP for Claude Code: IOC lookups, CVE checks, breach data, dark web search, OTX pulses |
 | [ai-upskill-playbook](https://github.com/pete-builds/ai-upskill-playbook) | The AI application stack for IT professionals. A map of what's worth learning in 2026 |
@@ -43,7 +46,7 @@
 
 ### 📝 Writing
 
-[research-reports](https://github.com/pete-builds/research-reports) · [stack.brooksnewmedia.com](https://stack.brooksnewmedia.com)
+[stack.brooksnewmedia.com](https://stack.brooksnewmedia.com)
 
 ---
 
