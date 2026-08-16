@@ -2,7 +2,7 @@
 
 I build tools that let AI agents safely work with real systems through dry-run previews, human approvals, and verifiable audit trails.
 
-At Cornell University, I work on AI tooling for higher education. Outside of work, I use Claude Code to build and maintain open-source projects: 32 public repos, 3,100 commits, and 220 PRs in the past year.
+At Cornell University, I work on AI tooling for higher education. Outside of work, I use Claude Code to build and maintain open-source projects: 32 public repos, 3,100 commits, and 220 PRs in the past year, a shared MCP runtime library adopted across six servers, and a fleet-wide CVE remediation shipped across twenty repositories in a day.
 
 I define the requirements, guardrails, and tests. Claude writes much of the implementation. My focus is making sure the result is safe, reliable, and ready for production.
 
