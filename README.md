@@ -34,6 +34,7 @@ I define the requirements, guardrails, and tests. Claude writes much of the impl
 
 | Project | What it does |
 |---|---|
+| [dewfront-showcase](https://github.com/pete-builds/dewfront-showcase) | Case study for [DewFront](https://dewfront.com), a live decision-first weather app built around dew point. React 19, Fastify, SQLite, 1,778 tests. Production source private |
 | [open-setlist-stash](https://github.com/pete-builds/open-setlist-stash) | Self-hostable setlist-prediction game. Pluggable band data via MCP (Phish + Umphrey's built in), FastAPI + Postgres, mypy-strict |
 | [mcp-unifi](https://github.com/pete-builds/mcp-unifi) | Safety-first MCP for self-hosted UniFi. Dry-run previews, JSONL audit log, composite rollback |
 | [strava-mcp-vault](https://github.com/pete-builds/strava-mcp-vault) | Strava MCP server with SQLite caching, token refresh, and rate-limit awareness |
