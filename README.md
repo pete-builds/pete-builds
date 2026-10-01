@@ -46,7 +46,15 @@ I define the requirements, guardrails, and tests. Claude writes much of the impl
 
 ### 📝 Writing
 
-[stack.brooksnewmedia.com](https://stack.brooksnewmedia.com)
+Short build notes at [stack.brooksnewmedia.com](https://stack.brooksnewmedia.com). Latest:
+
+<!-- STACK-POSTS:START -->
+- [Wrote a playbook for friends who want their own website on their own domain, served from a computer in their house.](https://stack.brooksnewmedia.com/post/077-homelab-website-playbook/) <sub>Sep 26, 2026</sub>
+- [Dewfront's windows card told me to open the windows because it was 18F cooler outside. It was 54F out.](https://stack.brooksnewmedia.com/post/076-dewfront-windows-regime/) <sub>Sep 20, 2026</sub>
+- [My Grafana dashboard said zero container restarts in the last 24 hours. Four containers had restarted in that window.](https://stack.brooksnewmedia.com/post/075-restarts-panel-could-not-see/) <sub>Sep 19, 2026</sub>
+- [allterrainsociety.com is live. All Terrain Society is a riding crew. Any surface, any season.](https://stack.brooksnewmedia.com/post/074-all-terrain-society-allowlist/) <sub>Sep 13, 2026</sub>
+- [Ran an overnight security review across my public repos, one reviewer per repo, each reading the entire tree.](https://stack.brooksnewmedia.com/post/073-overnight-public-repo-review/) <sub>Sep 12, 2026</sub>
+<!-- STACK-POSTS:END -->
 
 ---
 
