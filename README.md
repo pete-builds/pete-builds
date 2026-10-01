@@ -56,7 +56,7 @@ I define the requirements, guardrails, and tests. Claude writes much of the impl
 ### 📈 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pete-builds/pete-builds/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pete-builds/pete-builds/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/pete-builds/pete-builds/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pete-builds/pete-builds/output/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pete-builds/pete-builds/output/profile-green-animate.svg" />
+  <img alt="3D contribution skyline" src="https://raw.githubusercontent.com/pete-builds/pete-builds/output/profile-green-animate.svg" width="100%" />
 </picture>
