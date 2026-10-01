@@ -34,9 +34,11 @@ I define the requirements, guardrails, and tests. Claude writes much of the impl
 
 | Project | What it does |
 |---|---|
+| [mcp-unifi](https://github.com/pete-builds/mcp-unifi) | Safety-first MCP for self-hosted UniFi Network, Protect, and Access. Dry-run previews, JSONL audit log, composite rollback |
+| [writ-protocol](https://github.com/pete-builds/writ-protocol) | Writ: a minimal protocol for cross-vendor agent delegation. Pass narrowable authority between agents and get back a signed account of what was done under it |
+| [open-model-arena](https://github.com/pete-builds/open-model-arena) | Blind, cost-aware model comparison for any OpenAI-compatible endpoint. Self-hosted, ELO leaderboard, live streaming. One Docker container, one YAML file |
 | [dewfront-showcase](https://github.com/pete-builds/dewfront-showcase) | Case study for [DewFront](https://dewfront.com), a live decision-first weather app built around dew point. React 19, Fastify, SQLite, 1,778 tests. Production source private |
 | [open-setlist-stash](https://github.com/pete-builds/open-setlist-stash) | Self-hostable setlist-prediction game. Pluggable band data via MCP (Phish + Umphrey's built in), FastAPI + Postgres, mypy-strict |
-| [mcp-unifi](https://github.com/pete-builds/mcp-unifi) | Safety-first MCP for self-hosted UniFi. Dry-run previews, JSONL audit log, composite rollback |
 | [strava-mcp-vault](https://github.com/pete-builds/strava-mcp-vault) | Strava MCP server with SQLite caching, token refresh, and rate-limit awareness |
 | [mcp-threatintel](https://github.com/pete-builds/mcp-threatintel) | Threat intel MCP for Claude Code: IOC lookups, CVE checks, breach data, dark web search, OTX pulses |
 | [ai-upskill-playbook](https://github.com/pete-builds/ai-upskill-playbook) | The AI application stack for IT professionals. A map of what's worth learning in 2026 |
@@ -53,6 +55,8 @@ I define the requirements, guardrails, and tests. Claude writes much of the impl
 
 ### 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pete-builds&theme=github-compact&hide_border=true" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pete-builds/pete-builds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pete-builds/pete-builds/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/pete-builds/pete-builds/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
