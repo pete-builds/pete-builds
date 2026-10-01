@@ -41,9 +41,6 @@ I define the requirements, guardrails, and tests. Claude writes much of the impl
 | [open-setlist-stash](https://github.com/pete-builds/open-setlist-stash) | Self-hostable setlist-prediction game. Pluggable band data via MCP (Phish + Umphrey's built in), FastAPI + Postgres, mypy-strict |
 | [strava-mcp-vault](https://github.com/pete-builds/strava-mcp-vault) | Strava MCP server with SQLite caching, token refresh, and rate-limit awareness |
 | [mcp-threatintel](https://github.com/pete-builds/mcp-threatintel) | Threat intel MCP for Claude Code: IOC lookups, CVE checks, breach data, dark web search, OTX pulses |
-| [ai-upskill-playbook](https://github.com/pete-builds/ai-upskill-playbook) | The AI application stack for IT professionals. A map of what's worth learning in 2026 |
-| [claude-code-statusline](https://github.com/pete-builds/claude-code-statusline) | Labeled status bar for the Claude Code TUI: context, billing, git, weather |
-| [astro-claude-microblog](https://github.com/pete-builds/astro-claude-microblog) | A microblog that publishes from Claude Code. Astro + rsync. No CMS, no database. One command to post |
 
 ---
 
